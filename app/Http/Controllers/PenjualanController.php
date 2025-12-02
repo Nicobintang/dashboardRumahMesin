@@ -33,7 +33,7 @@ class PenjualanController extends Controller
     $tanggalAwal = $penjualans->min('tanggal_penjualan');
     $tanggalAkhir = $penjualans->max('tanggal_penjualan');
 
-    return view('Penjualan.index', compact(
+    return view('penjualan.index', compact(
         'penjualans',
         'totalPenjualan',
         'totalItem',
