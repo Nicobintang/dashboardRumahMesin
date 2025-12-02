@@ -7,4 +7,4 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/dashboard', [PenjualanController::class, 'index']);
+Route::get('/', [PenjualanController::class, 'index']);
