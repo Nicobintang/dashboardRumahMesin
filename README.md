@@ -1,7 +1,7 @@
 # 📊 Dashboard Penjualan Laravel
 
 Aplikasi ini dibuat sebagai bagian dari **Tes Kandidat IT Rumah Mesin – Pembuatan Dashboard Penjualan**.  
-Tujuannya adalah menampilkan **laporan penjualan** menggunakan framework **Laravel 10**, dilengkapi dengan visualisasi data menggunakan **Chart.js**.
+Tujuannya adalah menampilkan **laporan penjualan** menggunakan framework **Laravel 12.0**, dilengkapi dengan visualisasi data menggunakan **Chart.js**.
 Seluruh tampilan dibuat dengan **Bootstrap 5** agar responsif dan mudah digunakan.
 
 ---
@@ -21,7 +21,7 @@ Seluruh tampilan dibuat dengan **Bootstrap 5** agar responsif dan mudah digunaka
 
 ## 🧰 Teknologi yang Digunakan
 
-- **Laravel 10.x**
+- **Laravel 12.0**
 - **PHP 8.4+**
 - **MySQL / SQLite**
 - **Chart.js (v4)** untuk visualisasi grafik
