@@ -29,6 +29,9 @@ Seluruh tampilan dibuat dengan **Bootstrap 5** agar responsif dan mudah digunaka
 
 ---
 
+Hasil Deployment :
+[Klik link ini](https://dashboardrumahmesin-production.up.railway.app/)
+
 ## ⚙️ Cara Instalasi dan Setup
 
 Berikut panduan lengkap untuk menjalankan project ini secara lokal (Laragon / XAMPP):
@@ -88,6 +91,7 @@ Pastikan route default / langsung menuju dashboard.
 php artisan serve
 
 
-Buka browser → http://127.0.0.1:8000
+Buka browser → http://127.0.0.1:8000/dashboard
 
 Halaman langsung menuju Dashboard Penjualan.
+
